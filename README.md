@@ -104,5 +104,7 @@ transformer-from-scratch/
 
 └── README.md
 
+#Tip: If you used GPU training also mention:
 
+#txttorch --index-url https://download.pytorch.org/whl/cu118
 
