@@ -63,25 +63,45 @@ ComponentStatusInput Embedding✅ DonePositional Encoding✅ DoneMulti-Head Self
 
 transformer-from-scratch/
 │
+
 ├── model/
+
 │   ├── attention.py        # Multi-head & scaled dot-product attention
+
 │   ├── encoder.py          # Encoder block
+
 │   ├── decoder.py          # Decoder block
+
 │   ├── embedding.py        # Input embedding + positional encoding
+
 │   ├── feedforward.py      # Feed forward network
+
 │   └── transformer.py      # Full transformer model
+
 │
+
 ├── training/
+
 │   ├── train.py            # Training loop
+
 │   └── dataset.py          # Data preprocessing
+
 │
+
 ├── utils/
+
 │   └── helper.py           # Utility functions
+
 │
+
 ├── notebooks/
+
 │   └── demo.ipynb          # Step by step walkthrough
+
 │
+
 ├── requirements.txt
+
 └── README.md
 
 
