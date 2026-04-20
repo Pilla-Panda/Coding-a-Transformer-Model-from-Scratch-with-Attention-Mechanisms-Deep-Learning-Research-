@@ -3,4 +3,9 @@ End-to-end implementation of the Transformer architecture from scratch — multi
 
 
 🤖 Transformer From Scratch
-<img width="552" height="768" alt="image" src="https://github.com/user-attachments/assets/12cef916-f34d-423f-87a7-c2fdeefd75b7" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Transformer-orange.svg" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/Deployment-Coming%20Soon-yellow.svg" />
+</p>
