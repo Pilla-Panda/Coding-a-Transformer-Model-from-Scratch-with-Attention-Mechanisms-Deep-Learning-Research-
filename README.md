@@ -1,4 +1,4 @@
-<img width="552" height="768" alt="image" src="https://github.com/user-attachments/assets/47afc5e9-51a9-4056-9618-66ec767a89d5" /># Coding-a-Transformer-Model-from-Scratch-with-Attention-Mechanisms-Deep-Learning-Research-
+# Coding-a-Transformer-Model-from-Scratch-with-Attention-Mechanisms-Deep-Learning-Research-
 End-to-end implementation of the Transformer architecture from scratch — multi-head attention, positional encoding, feed-forward layers, and encoder-decoder blocks. Deployment coming soon 
 
 
