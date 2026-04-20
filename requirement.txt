@@ -7,3 +7,15 @@ tqdm
 jupyter
 ipykernel
 
+## 📦 Requirements
+
+Python 3.8+
+
+Install all dependencies using:
+
+pip install -r requirements.txt
+
+> ⚠️ Note: No HuggingFace, no pre-built Transformer libraries used.
+
+> Pure PyTorch tensor operations only. 💪
+
